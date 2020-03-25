@@ -1,4 +1,6 @@
-## to exclude all robots from the entire server
+## to exclude all robots from the entire server!
 ## more on http://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow: /
+Disallow: /secret/
+Disallow: /secret/secret.txt
