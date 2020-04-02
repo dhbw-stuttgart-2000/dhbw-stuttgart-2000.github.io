@@ -2,12 +2,29 @@ DISCLAIMER
 
 https://www.e-recht24.de/muster-disclaimer.html
 
+
 IMPRESSUM
 
 https://www.impressum-generator.de/impressum-generator/
 
+
 DATENSCHUTZ
 
 https://datenschutz-generator.de/
+
+
+CONSENT MANAGEMENT 
+
+https://www.oiljs.org
+http://oil.axelspringer.com/docs/#quickstart
+
+
+WHAT YOUR BROWSER KNOWS ABOUT YOU
+
+https://webkay.robinlinus.com/
+https://www.myip.com
+https://www.zendas.de/service/browserdaten.html
+http://daten.rehbein.net
+
 
 
